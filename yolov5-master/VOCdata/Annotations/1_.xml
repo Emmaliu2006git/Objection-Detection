@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>1_.jpg</filename>
+	<path>C:\Users\72433\Downloads\tools\images\1_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dev_label</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>384</xmin>
+			<ymin>1287</ymin>
+			<xmax>2293</xmax>
+			<ymax>1654</ymax>
+		</bndbox>
+	</object>
+</annotation>

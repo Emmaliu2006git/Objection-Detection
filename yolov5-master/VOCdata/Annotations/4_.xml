@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>4_.jpg</filename>
+	<path>C:\Users\72433\Documents\Tencent Files\724334042\FileRecv\tools\images\4_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>1706</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dev_label</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>350</xmin>
+			<ymin>752</ymin>
+			<xmax>1078</xmax>
+			<ymax>911</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>longitude_latitude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>1378</ymin>
+			<xmax>486</xmax>
+			<ymax>1544</ymax>
+		</bndbox>
+	</object>
+</annotation>

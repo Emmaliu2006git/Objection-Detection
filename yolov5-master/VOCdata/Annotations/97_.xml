@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>97_.jpg</filename>
+	<path>C:\Users\72433\Documents\Tencent Files\724334042\FileRecv\tools\images\97_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>longitude_latitude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>2409</ymin>
+			<xmax>1315</xmax>
+			<ymax>2816</ymax>
+		</bndbox>
+	</object>
+</annotation>

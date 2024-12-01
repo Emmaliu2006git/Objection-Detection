@@ -1,0 +1,9 @@
+C:/Users/EmmaL/codework/Objection-Detection/yolov5-master/VOCData/images/20_.jpg
+C:/Users/EmmaL/codework/Objection-Detection/yolov5-master/VOCData/images/51_.jpg
+C:/Users/EmmaL/codework/Objection-Detection/yolov5-master/VOCData/images/52_.jpg
+C:/Users/EmmaL/codework/Objection-Detection/yolov5-master/VOCData/images/66_.jpg
+C:/Users/EmmaL/codework/Objection-Detection/yolov5-master/VOCData/images/68_.jpg
+C:/Users/EmmaL/codework/Objection-Detection/yolov5-master/VOCData/images/84_.jpg
+C:/Users/EmmaL/codework/Objection-Detection/yolov5-master/VOCData/images/85_.jpg
+C:/Users/EmmaL/codework/Objection-Detection/yolov5-master/VOCData/images/86_.jpg
+C:/Users/EmmaL/codework/Objection-Detection/yolov5-master/VOCData/images/90_.jpg
